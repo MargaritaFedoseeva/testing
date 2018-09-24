@@ -8,7 +8,8 @@ public class Hello {
         int a = scanner.nextInt();
         System.out.print("Введите второе число:");
         int b = scanner.nextInt();
-        System.out.println("Результат сложения двух чисел "+ a +" и "+ b +" = "+(a+b));
+        int c = a+b;
+        System.out.printf("Результат сложения двух чисел %d + %d = %d \n", a , b, c);
         scanner.close();
     }
 }
