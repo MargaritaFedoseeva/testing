@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Hello {
+public class Calculator {
     public static void main(String []arg) {
         System.out.println("Калькулятор сложения");
         Scanner scanner = new Scanner(System.in);
