@@ -7,3 +7,4 @@ public class Class {
         Response rs=get("http://www.cbr.ru/scripts/XML_daily.asp");
     }
 }
+\
