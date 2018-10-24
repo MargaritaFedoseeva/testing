@@ -1,3 +1,4 @@
+package calculate;
 
 public class Operacionist {
     private double a;

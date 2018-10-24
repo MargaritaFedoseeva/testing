@@ -1,3 +1,5 @@
+package calculate;
+
 import java.util.Scanner;
 
 
